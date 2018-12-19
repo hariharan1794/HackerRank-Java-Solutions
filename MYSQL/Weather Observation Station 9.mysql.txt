@@ -1,0 +1,2 @@
+
+Select Distinct CITY from STATION where CITY REGEXP '^[^a|e|i|o|u]' ;
